@@ -1,0 +1,13 @@
+This is a very basic exmaple of using Mongolian DeadBeef with Node.JS, Express, and PHP.
+
+To get started just run:
+
+npm install
+
+this will install the dependencies from the package.json file
+
+then run:
+
+node app.js
+
+upload the test.php file to your web server and visit it.
